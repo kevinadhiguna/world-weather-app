@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  world-weather-app:
+    build: .
+    container_name: world-weather-app_ctr
+    ports:
+      - 3000:3000
