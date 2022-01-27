@@ -4,5 +4,6 @@ services:
   world-weather-app:
     build: .
     container_name: world-weather-app_ctr
+    stdin_open: true
     ports:
       - 3000:3000
