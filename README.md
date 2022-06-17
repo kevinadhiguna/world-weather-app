@@ -2,7 +2,10 @@
 
 An app that provides you current weather and temperature in a nation.
 
+<br />
+
 ## Demo & Feature
+
 This is World Weather App looks by default : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/world-weather-app/master/demo/1.default.png" width="45%"></img> <br><br>
 
@@ -22,17 +25,25 @@ The background image is red color dominant : <br><br>
 In the project directory, you can :
 
 1) Install dependencies :
-### `yarn`
+```
+yarn
+```
 
 2) Run this app on your browser :
-### `yarn start`
+```
+yarn start
+```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+<br />
+
 ## Reference
 - [Tyler Potts - Build a Weather App in React JS | React JS beginner Tutorial](https://youtu.be/GuA0_Z1llYU)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/world-weather-app)](https://github.com/kevinadhiguna)
