@@ -32,4 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+## Reference
+- [Tyler Potts - Build a Weather App in React JS | React JS beginner Tutorial](https://youtu.be/GuA0_Z1llYU)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/world-weather-app)](https://github.com/kevinadhiguna)
